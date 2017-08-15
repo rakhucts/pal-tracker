@@ -1,0 +1,36 @@
+cf-api-url: https://api.sys.longs.pal.pivotal.io
+cf-username: rakhu.augustus@cognizant.com
+cf-password: 9efbb456
+cf-org: raugustus-pal
+github-repository: git@github.com:platform-acceleration-lab/pal-tracker.git
+github-private-key: |
+    -----BEGIN RSA PRIVATE KEY-----
+    Proc-Type: 4,ENCRYPTED
+    DEK-Info: AES-128-CBC,200BF5C1E098559F22BC06569900CB31
+
+    nHtu4C9XOwwjqprIo8VAxA3TMrmBlSBO7p2eUO+WconSBhzsO7dkHS+lKJ/DCE0i
+    rKGufs5PWSec2rOpkWYtbK8eZjPKrtJaW2HNVRzDrLmEvlwW/3FMocv8SNLeZkyh
+    xnSBpY/zmCMyb6VxTOiRisQlbB+Xc+blpx2uICgidXuaehyBbt1tFT93ic21Asjp
+    9Pl+j1IUFPSDgBtjmm+stzqJ5NByZvxAzUGSpvPF2GOybfMfu+CDUh0iPgNMfnwf
+    8xGN86aO0B6cEQYEo2Nejzuvpux0VlkuAWdvUtHdOobx+NTfr1RJxLw5Cm4Vw06l
+    uq0Hf05sSw+2rlYBMI7ey5DrRUEr/K/hm+AFpXSi4DDQWKW9eju2IBKspAjMdZ0l
+    8bnI6Py/rFEUEkoqd3SfQhD6IiqjopkK9gfkW+kDqf0YaS20n4jVbr+WLQyqoZT6
+    bItRg9Um5DTLuFMjuKQgHsjaBd+LCWEE5LZks71X0g17lojWDswndHhVv4etdAIv
+    Mg8QMwEXFjmY7JRi8/qzU2jJtQBa/7OT0s+PeL78Y1g9ynIgReJ81KhlTGL0Mym+
+    y1KmnUyQaUaqJ7NlLe5k3j12440ivGOgoNyeFHuFFJkYPxTHxTiAacBo3YOsVlMx
+    Pmha+6QQboZ0nzIB5LClHLq02iFK/Vk5WL/d1G+At9cNLcUKds9iRD2RcqLd33AJ
+    9TB65slZlLvpHNKyc9EGd/JZaph0DFrq3v9zEP0b5zqImGmHyhjoDuHmexs5F+Ls
+    vwrcXMGxNHYOnsqtNE7s2HQUlVXm3tNsE7p0rDYq6caEOWEdSxWTQnCN1xkusbgf
+    E5Zm6s2gjlAVAv8cN+zXpCAfHka74RBal678TE5kQcmtmtRzeNx4FwGNd/Eilgy0
+    ImABHzlHLb2A80DfemTwovkx9ZuLx1/iraPnYLg/xKVKVOpDXl86+F5+0xfkfn7E
+    XpG7E/wwe3GQcgpHBawxL+h11+ABqBuHWeRzFonaVgZ1j5+hn82/oOJDhQa5S7WO
+    VsVQwYqPOLU73HUHLOy/rMSz9IYW7sjNQiEeYnil/EBIQ6/6ddHzlehzvrYN7XSV
+    WC5+Lz2tW3xCFCe5Ef/38hKHxiPRo2HEVBU6Q7Bfu4oPowIGBilRLdMC+ZieJMgn
+    zye2TSfFNd1ztQnbjh7SWbpjvEqJe1ot4MQXvl4bQiYpVv7p1qfBqPF8R4iGKiw7
+    IKXK6JslB73IWNPvpU1DFe4ZBr3UtL5tOomh3PaWXNxhD9VJhi8C9UUSpKC8Hj4i
+    KXQ2nEzIv4zBArdI0Imkz0ZZdGbXsjVT5TbVpMrSglyu3rDGcWGc4hYu6BXe+OkS
+    QJY1/Y1FyGaCdYxVlX6ogiITne1YpL4owEmSZga4b8c6eNu4h2Fq91y7CaDKVXfo
+    iRDvo/TMoCP59QYgAuErfBX20BCbJi+gp3RroF5jerhbGfGoPgh29YWBrpusWKlL
+    y864nS95MD3xeMujkeNjxYWC1nkl92TxcfkYXVGNohFRgj5f0BwHDhLs7ZgRJngm
+    vjMUooUvoXX3AwcmtUHWDsj26NY2SBAFB/KKATD4w4yyn64kMsxAyowgtEff1cL3
+    -----END RSA PRIVATE KEY-----
