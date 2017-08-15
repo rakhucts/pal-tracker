@@ -2,7 +2,7 @@ cf-api-url: https://api.sys.longs.pal.pivotal.io
 cf-username: rakhu.augustus@cognizant.com
 cf-password: 9efbb456
 cf-org: raugustus-pal
-github-repository: git@github.com:platform-acceleration-lab/pal-tracker.git
+github-repository: git@github.com:rakhucts/pal-tracker.git
 github-private-key: |
   -----BEGIN RSA PRIVATE KEY-----
   MIIJJwIBAAKCAgEApkZ5A8L1QGCzYbUDj7WwRpkTcOlxtgd81+sanKeVVmI0Mg71
